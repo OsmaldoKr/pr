@@ -42,12 +42,16 @@ btnGenerar.addEventListener('click', () => {
   const valores = blanks.map(input => input.value.trim());
 
   // Animación de pequeños errores: marcar vacíos
+  let hayVacios = false;
   blanks.forEach((input, i) => {
     if (!valores[i]) {
       input.classList.add('shake');
       setTimeout(() => input.classList.remove('shake'), 300);
+      hayVacios = true;
     }
   });
+
+  if (hayVacios) return;
 
   // Rellenar vacíos con texto por defecto suave
   const rellenos = valores.map((v, i) => v || obtenerFallback(i));
