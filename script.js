@@ -29,6 +29,8 @@ Y así como Luffy solo quiere ser libre y se emociona por la carne más que por 
 
 A veces siento que mi historia se parece un poco a la de Rei Ayanami, que fue creada con un propósito que al inicio parecía frío y distante, hasta que Shinji empezó a darle otro sentido a su existencia. Tal vez yo también estaba medio perdido hasta que llegaste tú, y de pronto todo lo que era gris empezó a tomar color, como si hubieras sido diseñada para encajar justo en el huequito que tenía el alma.
 
+Te amo tanto que, si el mundo se deshiciera a nuestro alrededor, volvería a caminar entre las ruinas solo para encontrarte otra vez, como Shinji buscando a Rei, porque tu abrazo siempre será mi verdadero inicio después del fin.
+
 Quiero que sepas que si el mundo fuera un mapa gigante, lo recorrería entero solo para encontrarte de nuevo, como si cada bioma, cada reino y cada isla escondida me fueran guiando hacia ti. Serías ese punto en el mapa marcado con una “X” que no es un tesoro cualquiera, sino el lugar donde finalmente puedo decir: “Aquí me quedo, aquí es”.
 
 No sé en qué momento pasamos de un simple “¿Qué onda?” a este nivel de locura compartida, pero me encanta. Me encanta la forma en la que tus enojos se deshacen con un abrazo, cómo tus risas hacen ruido en mi pecho incluso cuando no estás, y cómo tus besos se sienten como ese respawn seguro al que siempre quiero volver.
